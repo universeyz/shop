@@ -1,6 +1,7 @@
+<<<<<<< HEAD
 aaa
 fff
 bbb
 
-cccc
+ccc
 vvv
